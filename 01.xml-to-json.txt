@@ -1,0 +1,71 @@
+- go to title
+-- cs<"
+- surround after title until < with "
+-- vf< - select until <
+-- S" - surround with "
+- delete tag add coma and go to new line
+- go to book
+-- find i
+-- dt> - delete till >
+-- put p
+-- cst} - change surrounding tag to }
+-- go to id and ysw" - surround word with "
+-- find = and replace with :
+-- go to the end of the line and add , A,
+-- down
+-- play macro t
+-- go down until year and ds" - delete surrounding "
+
+
+
+
+<book id="10">
+  <title>Harry Potter and the Sorcerer's Stone</title>
+  <author>J.K. Rowling</author>
+  <genre>Fantasy</genre>
+  <year>1997</year>
+</book>
+<book id="11">
+  <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <genre>Classic</genre>
+  <year>1925</year>
+</book>
+<book id="11">
+  <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <genre>Classic</genre>
+  <year>1925</year>
+</book>
+<book id="11">
+  <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <genre>Classic</genre>
+  <year>1925</year>
+</book>
+<book id="11">
+  <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <genre>Classic</genre>
+  <year>1925</year>
+</book>
+<book id="11">
+  <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <genre>Classic</genre>
+  <year>1925</year>
+</book>
+<book id="11">
+  <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <genre>Classic</genre>
+  <year>1925</year>
+</book>
+<book id="11">
+  <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <genre>Classic</genre>
+  <year>1925</year>
+</book>
+
+let @t='^fi€ýadt>€ýapcst}lysw"f=€ýar:€ýaA,j^@k€ýa€ýa€ýa@k€ýa€ýa€ýa@k€ýa€ýa€ýa@k€ýa€ýa€ýaa,j'
