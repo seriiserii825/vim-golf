@@ -1,0 +1,63 @@
+- go to the start of the line
+- ctrl+v to go into visual block mode
+- G - go to the end of the line
+- I - insert at the beginning of the line
+- type 0. 
+- gv - reselect the visual block
+- g+ctrl+a - increment the numbers
+
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
+Milk
+Bread
+Hotdog
+Mustard
+Jalapenos
