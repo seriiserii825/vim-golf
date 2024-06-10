@@ -1,0 +1,12 @@
+SELECT 
+col1 AS column1,
+cast(column2 AS varchar(255)) AS column2,
+cast(evenlongercolumn3 AS varchar(255)) AS column3,
+cast(yetevenlongercolumn4 AS varchar(255)) AS column4,
+cast(thelongestcolumnyouhaveeverseen9 AS varchar(255)) AS column5,
+col1 AS column6,
+cast(column7 AS varchar(255)) AS column7,
+cast(evenlongercolumn8 AS varchar(255)) AS column8,
+cast(yetevenlongercolumn9 AS varchar(255)) AS column9,
+cast(thelongestcolumnyouhaveeverseen10 AS varchar(255)) AS column10
+FROM table;
